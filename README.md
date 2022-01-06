@@ -32,7 +32,7 @@ Je vous laisse découvrir mon univers, et j'espère à bientôt 😃
 
 # À propos
 - 🔭 Je travaille actuellement sur un projet de site web pour un <!--auto-entrepreneur en comptabilité/--> expert comptable en ONG.
-- 🌱 En ce moment, j'apprend de nouvelles notions de cybersécurité.
+- 🌱 En ce moment, j'apprends de nouvelles notions de cybersécurité.
 - 👯 Disponible immédiatement pour une prise de poste.
 - ⚡ Fun fact: J'aime la natation, faire du roller quad et des essais culinaires étranges ( exemple : les chips au chocolat. miam 😋 recette norvégienne)
 
