@@ -23,11 +23,7 @@ Je vous laisse découvrir mon univers, et j'espère à bientôt 😃
 ![This is an image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
-<!--<img align='right' src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="250"> 
 
-<img align='right' src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="250"> 
-
-<img align='right' src="https://media.giphy.com/media/lebpnk3qVPAjBxIKKc/giphy.gif" width="250">-->
 <img align='right' src="https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/giphy.gif" width="250">
 
 
