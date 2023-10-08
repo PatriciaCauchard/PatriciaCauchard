@@ -22,7 +22,7 @@ Je vous laisse découvrir mon univers, et j'espère à bientôt 😃
 ![This is an image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-
+<img alt="YouTube Video Comments" src="https://img.shields.io/youtube/comments/:videoId">
 
 <img align='right' src="https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/giphy.gif" width="250">
 
