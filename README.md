@@ -2,7 +2,7 @@
 <div align="center">  
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="120">
 </div>
-Je suis Patricia, développeuse web full stack, spécialisée en Wordpress.
+Je suis Patricia, développeuse web full stack, spécialisée en Wordpress, actuellenemt au poste de Gestionnaire de Base de Données Cartographique chez Enedis.
 Je vous laisse découvrir mon univers, et j'espère à bientôt 😃
 
 -------------------------
@@ -31,9 +31,8 @@ Je vous laisse découvrir mon univers, et j'espère à bientôt 😃
 -------------------------
 
 # À propos
-- 🔭 Je travaille actuellement sur un projet de site web pour un <!--auto-entrepreneur en comptabilité/--> expert comptable en ONG.
-- 🌱 En ce moment, j'apprends de nouvelles notions de cybersécurité.
-- 👯 Disponible immédiatement pour une prise de poste.
+- 🔭 En ce moment, je travaille au pôle cartographie d'Enedis et je me perfectionne quotidennement sur des Logiciels SIG. Côté Développement, je travaille sur un projet de site web pour un <!--auto-entrepreneur en comptabilité/--> expert comptable en ONG.
+- 🌱 J'apprends de nouvelles notions de cybersécurité.
 - ⚡ Fun fact: J'aime la natation, faire du roller quad et des essais culinaires étranges ( exemple : les chips au chocolat. miam 😋 recette norvégienne)
 
 ---------------------
